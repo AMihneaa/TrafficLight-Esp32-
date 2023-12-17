@@ -85,7 +85,7 @@ while True:
                 if command == "run":
                     print("The traffic light will start to operate!");
                     isWorking = true;
-                elif command == "stop:
+                elif command == "stop":
                     print("The traffic light will stop!");
                     isWorking = false;
                     
